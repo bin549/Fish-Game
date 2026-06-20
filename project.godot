@@ -12,7 +12,7 @@ config_version=5
 
 config/name="FishGame"
 run/main_scene="res://Scenes/Game/Game.tscn"
-config/features=PackedStringArray("4.6", "GL Compatibility")
+config/features=PackedStringArray("4.7", "C#", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [dotnet]
